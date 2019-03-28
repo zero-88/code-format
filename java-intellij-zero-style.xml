@@ -133,7 +133,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="120" />
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
@@ -144,7 +143,6 @@
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
@@ -164,7 +162,7 @@
     <option name="THROWS_LIST_WRAP" value="1" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
@@ -186,7 +184,6 @@
     <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
       <groups>
